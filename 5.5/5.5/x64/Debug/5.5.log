@@ -1,0 +1,4 @@
+﻿  5.5.cpp
+D:\c\5.5\5.5\5.5.cpp(10,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\c\5.5\5.5\5.5.cpp(11,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  5.5.vcxproj -> D:\c\5.5\x64\Debug\5.5.exe
